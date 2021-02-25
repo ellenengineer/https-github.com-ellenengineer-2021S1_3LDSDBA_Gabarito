@@ -7,6 +7,12 @@ namespace ExceptionStream
     class Program
     {
 
+        /*
+         * Fazer um método que crie um diretório, caso ele não exista e retorne o nome do diretório criado e/ou existente
+          Fazer um método que crie um arquivo chamado AulaFapen.txt,  dentro do diretório criado no ex 1. E escrever o seguinte conteúdo "Estamos utilizando a classe StreamWriter para escrever esse código! "                                             
+          Fazer um programa que leia o arquivo criado no exercício número 2 e jogue a frase escrita no arquivo em uma aplicação console                   
+
+         */
         static void Main(string[] args)
         {
             Excecao();
