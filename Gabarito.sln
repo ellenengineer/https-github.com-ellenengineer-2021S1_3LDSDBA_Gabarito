@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Estrutura_C_Sharp", "Estrutura_C_Sharp\Estrutura_C_Sharp.csproj", "{1DBCC88F-66DB-498F-9294-0F9E5A8BE8C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionStream", "ExceptionStream\ExceptionStream.csproj", "{AA678FAE-AB05-4070-97E0-BB2C5EB3ECC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExceptionStream", "ExceptionStream\ExceptionStream.csproj", "{AA678FAE-AB05-4070-97E0-BB2C5EB3ECC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOCollections", "OOCollections\OOCollections.csproj", "{4750500D-52BB-4525-B8C2-4F171006C91B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{AA678FAE-AB05-4070-97E0-BB2C5EB3ECC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA678FAE-AB05-4070-97E0-BB2C5EB3ECC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA678FAE-AB05-4070-97E0-BB2C5EB3ECC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4750500D-52BB-4525-B8C2-4F171006C91B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4750500D-52BB-4525-B8C2-4F171006C91B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4750500D-52BB-4525-B8C2-4F171006C91B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4750500D-52BB-4525-B8C2-4F171006C91B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
